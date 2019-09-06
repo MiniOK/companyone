@@ -1,0 +1,7 @@
+*.xml
+/data/*
+*.doc
+*.docx
+*.pdf
+*.xls
+*.xlsx
